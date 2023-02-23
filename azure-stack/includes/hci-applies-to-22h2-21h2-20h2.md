@@ -9,4 +9,4 @@ ms.reviewer: alkohli
 ms.lastreviewed: 11/02/2022
 ---
 
-> Applies to: Azure Stack HCI, versions 22H2, 21H2, and 20H2
+> Applies to: Azure Stack HCI, versions 22H2, 21H2, and 20H2, Windows Server 2022
